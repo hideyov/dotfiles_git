@@ -5,3 +5,5 @@
 	st = status
 [color]
 	ui = auto
+[core]
+	editor = atom --wait
