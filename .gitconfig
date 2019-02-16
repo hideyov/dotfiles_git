@@ -3,6 +3,9 @@
 	email = hideyovic89yaogun@yahoo.co.jp
 [alias]
 	st = status
+	ci = commit
+	br = branch
+	co = checkout
 [color]
 	ui = auto
 [core]
